@@ -10,7 +10,7 @@
 <body>
 <?php require "conn.php"; ?>
     <div class="container mt-4">
-        <p><h2>PHP MySQL Ajax Live Searche</h2></p>
+        <p><h2> Search using PHP MySQL and Ajax</h2></p>
         <h6 class="mt-5"><b>Searche Name</b></h6>
         <div class="input-group mb-4 mt-3">
             <div class="form-outline">
